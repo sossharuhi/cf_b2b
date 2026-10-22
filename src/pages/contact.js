@@ -43,7 +43,7 @@ export async function contactPage(env) {
               <div style="font-size: 1.5rem; margin-right: 1rem; color: var(--primary-color);">📍</div>
               <div>
                 <h3 style="font-weight: 600; margin-bottom: 0.25rem;">Address</h3>
-                <p id="contact-address" style="color: var(--text-light);">Shengli West Road<br>Industrial Zone<br>ZHANGZHOU, CHINA 12345</p>
+                <p id="contact-address" style="color: var(--text-light);">Shengli West Road<br>Industrial Zone<br>ZHANGZHOU, CHINA 363000</p>
               </div>
             </div>
 
