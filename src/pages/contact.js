@@ -43,7 +43,7 @@ export async function contactPage(env) {
               <div style="font-size: 1.5rem; margin-right: 1rem; color: var(--primary-color);">📍</div>
               <div>
                 <h3 style="font-weight: 600; margin-bottom: 0.25rem;">Address</h3>
-                <p id="contact-address" style="color: var(--text-light);">123 Business Street<br>Industrial Zone<br>City, Country 12345</p>
+                <p id="contact-address" style="color: var(--text-light);">Shengli West Road<br>Industrial Zone<br>ZHANGZHOU, CHINA 12345</p>
               </div>
             </div>
 
@@ -52,7 +52,7 @@ export async function contactPage(env) {
               <div>
                 <h3 style="font-weight: 600; margin-bottom: 0.25rem;">Email</h3>
                 <p id="contact-email-info" style="color: var(--text-light);">
-                  <a id="contact-email-link" href="mailto:info@example.com" style="color: var(--primary-color);">info@example.com</a>
+                  <a id="contact-email-link" href="mailto:longdongshu@gmail.com" style="color: var(--primary-color);">longdongshu@gmail.com</a>
                 </p>
               </div>
             </div>
@@ -62,7 +62,7 @@ export async function contactPage(env) {
               <div>
                 <h3 style="font-weight: 600; margin-bottom: 0.25rem;">Phone</h3>
                 <p id="contact-phone-info" style="color: var(--text-light);">
-                  +1 234 567 8900
+                  +86 13143973521
                 </p>
               </div>
             </div>
